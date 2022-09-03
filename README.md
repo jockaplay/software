@@ -1,4 +1,4 @@
-* software
+# Projeto de software
 
 Aprendendo a criar software com python
 
